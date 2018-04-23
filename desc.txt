@@ -1,0 +1,3 @@
+start with a penny, double the amount 30 times, adding each double to 
+the total. return the final amount. 
+By Erik Nordland
